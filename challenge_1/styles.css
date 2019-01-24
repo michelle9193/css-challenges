@@ -1,0 +1,46 @@
+body {
+    background-color: salmon;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 0.625rem
+}
+
+h3 {
+    text-transform: uppercase;
+    text-align: center;
+    padding: 20px 0;
+    font-family: 'Pacifico', cursive;
+
+}
+
+p {
+    padding: 0 40px;
+}
+
+.paragraph1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.paragraph2 {
+    font-family: 'Sarabun', sans-serif;
+}
+
+.paragraph3 {
+    font-family: 'Lato', sans-serif;
+}
+
+.paragraph4 {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.paragraph5 {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.paragraph6 {
+    font-family: 'PT Sans Narrow', sans-serif;
+
+}
