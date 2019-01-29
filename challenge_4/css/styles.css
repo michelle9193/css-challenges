@@ -1,0 +1,43 @@
+.box1,
+.box2,
+.box3,
+.box4 {
+    height: 12.5rem;
+    width: 12.5rem;
+    display: inline-block;
+    float: left;
+}
+
+.box1 {
+    background-color: rgb(231, 157, 169);
+}
+
+
+.box1:hover {
+    background-color: mistyrose;
+}
+
+.box2 {
+    background-color: blueviolet
+}
+
+.box2:active {
+    background-color: black;
+}
+
+.box3 {
+    background-color: aqua
+}
+
+.box3:hover {
+    width: 37.5rem;
+}
+
+.box4 { 
+    background-color: rgb(231, 231, 63)
+}
+
+.box4:hover {
+    width: 3.125rem;
+}
+
