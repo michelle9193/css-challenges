@@ -1,0 +1,23 @@
+.ribbon {
+    position: relative;
+    float: right;
+    width: 200px;
+    height: 30px;
+    background-color: yellow;
+    transform: rotate(45deg);
+    right: -45px;
+    
+}
+
+a {
+    position: absolute;
+    text-decoration: none;
+    letter-spacing: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+    top: 20%;
+    left: 55%;
+
+}
